@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMobApplication1</string>
+    <string name="answer_text">Hello!</string>
+    <string name="button_text">Get Formula</string>
+    <string name="circle_text">Circle</string>
+    <string name="rectangle_text">Rectangle</string>
+    <string name="perimeter_text">Perimeter</string>
+    <string name="square_text">Square</string>
+    <string name="radio_group_title_text">What do you want to count?</string>
+    <string name="chexbox_title_text">For what figure are you looking the formula?</string>
+</resources>
