@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mob2</string>
+    <string name="hello_blank_fragment">Result</string>
+    <string name="radio_group_title_text">For what figure do you want to find formula?</string>
+    <string name="perimeter_text">Perimeter</string>
+    <string name="square_text">Square</string>
+    <string name="checkbox_text_title">For what measurement do you want to find formula?</string>
+    <string name="circle_text">Circle</string>
+    <string name="rectangle_text">Rectangle</string>
+    <string name="button_text">Get formula</string>
+    <string name="page_text">Here you will see formula!</string>
+    <string name="geometry_formulas">Geometry formulas</string>
+    <string name="trigonometry_formulas">Trigonometry formulas</string>
+    <string name="algebra_checkbox_title">What measurement do you want to find?</string>
+    <string name="sinus_text">Sinus</string>
+    <string name="cosine_text">Cosine</string>
+    <string name="tangent_text">Tangent</string>
+    <string name="cotangent_title">Cotangent</string>
+    <string name="trigonometry_radio_group_title">For what angle do you want to find measurement?</string>
+    <string name="nul_grad_text">0°</string>
+    <string name="thirty_grad_text">30°</string>
+    <string name="sixty_grad_text">60°</string>
+    <string name="forty_five_grad_text">45°</string>
+    <string name="ninety_grad_text">90°</string>
+    <string name="one_hundred_eighty_grad_text">180°</string>
+    <string name="get_value_text">Get Value</string>
+    <string name="trigonometry_page_text">There will be value for angle</string>
+    <string name="get_formula_button_text">Get formula</string>
+    <string name="cancel_button_text">Cancel</string>
+</resources>
